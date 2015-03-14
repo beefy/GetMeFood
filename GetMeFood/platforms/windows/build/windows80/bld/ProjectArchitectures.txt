@@ -1,1 +1,0 @@
-C:\Users\Nathaniel\Documents\Projects\GetMeFood\GetMeFood\platforms\windows\CordovaApp.Windows80.jsproj;neutral

@@ -1,1 +1,0 @@
-C:\Users\Nathaniel\Documents\Projects\GetMeFood\GetMeFood\platforms\windows\AppPackages\CordovaApp.Windows80_0.0.1.0_AnyCPU_Debug_Test\CordovaApp.Windows80_0.0.1.0_AnyCPU_Debug.appx

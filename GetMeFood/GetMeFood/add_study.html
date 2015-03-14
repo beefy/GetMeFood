@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ResearchMe</title>
+
+    <!-- ResearchMe references -->
+    <link href="css/index.css" rel="stylesheet" />
+</head>
+<body>
+
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+
+    <script src="scripts/index.js"></script>
+
+    <!--HEADER-->
+    <header>
+        <img class="menu" src="images/back.png" onclick="window.location.replace('index.html')" />
+        <img class="logo" src="images/logo.png" />
+    </header>
+
+    <h1>Add a Study</h1>
+
+    <div class="divclass">
+        <div>
+            <label>Study Compensation:</label><br />
+            <textarea></textarea>
+        </div>
+        <div>
+            <label>Study Email:</label><br />
+            <textarea></textarea>
+        </div><div>
+            <label>Demographics Desired:</label><br />
+            <textarea></textarea>
+        </div><div>
+            <label>Active Date</label><br />
+            <textarea></textarea>
+            <br /><br /> <button onclick="window.location.replace('index.html')">Submit</button>
+        </div>
+    </div>
+
+</body>
+</html>
